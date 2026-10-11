@@ -1,16 +1,21 @@
-## Hi there 👋
+# Siddharth Dongare
 
-<!--
-**siddongare/siddongare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student in India building tools to solve problems i run into myself.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Airvee](https://github.com/siddongare/airvee)** is a Chrome extension that predicts when a plane will pass over you and tells you which way to look. I started it because I like spotting planes and kept noticing them too late. It has tests, and the maths is written up in the repo.
+
+**[Tab Vault](https://github.com/siddongare/tab-vault)** is a tab session saver i made for myself.
+
+## How I work
+
+I build with AI coding tools, and im learning the fundamentals underneath them so i can check what they write.
+
+Currently studying: Class 12 HSC, science with Physics, Chemistry, Maths and Computer Science.
+
+## Tools I've used
+
+JavaScript · Chrome extensions (Manifest V3) · Git and GitHub Actions
+
+Contact: https://www.linkedin.com/in/siddharth-d-97ba2a404/
