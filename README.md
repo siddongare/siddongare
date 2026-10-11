@@ -12,7 +12,7 @@ Student in India building tools to solve problems i run into myself.
 
 I build with AI coding tools, and im learning the fundamentals underneath them so i can check what they write.
 
-Currently studying: Class 12 HSC, science with Physics, Chemistry, Maths and Computer Science.
+Currently studying: Class 12 HSC (PCM + Computer Science), including C++, data structures, operating systems and HTML.
 
 ## Tools I've used
 
